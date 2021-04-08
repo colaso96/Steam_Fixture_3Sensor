@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple steps:
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/klam2k20/Steam_Fixture_3Sensor.git
+   ```HTTPS
+   
    ```
 
