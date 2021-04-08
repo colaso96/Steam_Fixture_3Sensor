@@ -112,6 +112,6 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repo
    ```HTTPS
-   
+   git clone https://github.com/colaso96/Steam_Fixture_3Sensor.git
    ```
 
